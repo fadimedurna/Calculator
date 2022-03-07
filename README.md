@@ -1,2 +1,2 @@
 # Calculator
-BMI and simple adding calculator exercise with Express.js.
+BMI and simple adding calculators exercise with Express.js.
